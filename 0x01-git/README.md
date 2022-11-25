@@ -1,1 +1,1 @@
-My first repo session
+My interesting first time of coding on github platform
